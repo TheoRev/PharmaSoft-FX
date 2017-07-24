@@ -1,0 +1,17 @@
+.buttons_actions{
+    -fx-background-color: rgb(0,102,102);
+}
+
+.buttons_cancel{
+    -fx-background-color: #F78181;
+}
+
+.textBoxs{
+    -fx-font-size: 11pt;
+}
+
+.textfield-login{
+    -fx-text-fill: #ffffff;
+    -fx-highlight-fill: derive(-fx-control-inner-background,-20%);
+    -fx-highlight-text-fill:#ffffff;
+}
